@@ -1,4 +1,6 @@
-# 🧠 Healthy Social Media
+# GSoC Innovators Club - Summer of CodeFest'25
+
+# 🧠 Healthy Social Media - Wel
 
 A wellness-focused social media platform designed to promote mindful digital interaction and mental well-being. Built with modern technologies for both web and mobile platforms, Healthy Social Media encourages users to take control of their screen time, focus on meaningful engagement, and reduce digital fatigue.
 
@@ -27,7 +29,13 @@ Both platforms are integrated to offer a unified and health-conscious social med
 - *Live Preview (Appetize.io):* [Click here to try the app online](https://appetize.io/app/b_yojgh53qzhtrzqqs2jzoqrdxa4)
 
 ---
+---
 
+## PPT Link
+
+- *Drive Link:* [https://drive.google.com/file/d/1NDtfVL_TuZ7PfPZjjNKFc5ogseRBYMoI/view?usp=drivesdk]
+
+---
 ## 📸 Screenshots
 
 Here are some screenshots of the application in action:
