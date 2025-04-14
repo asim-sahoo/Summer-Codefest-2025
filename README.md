@@ -1,6 +1,6 @@
 # GSoC Innovators Club - Summer of CodeFest'25
 
-# 🧠 Healthy Social Media - Wel
+# 🧠 Healthy Social Media - WellSta
 
 A wellness-focused social media platform designed to promote mindful digital interaction and mental well-being. Built with modern technologies for both web and mobile platforms, Healthy Social Media encourages users to take control of their screen time, focus on meaningful engagement, and reduce digital fatigue.
 
