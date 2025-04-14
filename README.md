@@ -29,7 +29,6 @@ Both platforms are integrated to offer a unified and health-conscious social med
 - *Live Preview (Appetize.io):* [Click here to try the app online](https://appetize.io/app/b_yojgh53qzhtrzqqs2jzoqrdxa4)
 
 ---
----
 
 ## PPT Link
 
