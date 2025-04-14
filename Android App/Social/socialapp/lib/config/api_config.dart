@@ -1,7 +1,5 @@
 class ApiConfig {
-  // Use the correct IP address for your device
-  // For Android devices connecting to your computer's localhost, use your computer's IP address on your local network
-  static const String baseUrl = 'http://172.25.170.121:4000'; // Replace with your actual computer's IP address
+  static const String baseUrl = 'https://wellstaserver.onrender.com'; // Replace with your actual server URL
 
   // Alternatives (commented out):
   // static const String baseUrl = 'http://10.0.2.2:4000'; // For Android emulator connecting to localhost

@@ -1,7 +1,7 @@
 // filepath: d:\Files\Code\flutter_projects\Social\socialapp\lib\utils\api_constants.dart
 class ApiConstants {
   // Base URL for API calls
-  static const String baseUrl = 'http://172.25.170.121:4000/api';
+  static const String baseUrl = 'https://wellstaserver.onrender.com/api';
 
   // Authentication endpoints
   // static const String login = '/auth/login';
